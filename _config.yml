@@ -308,7 +308,6 @@ timezone: Etc/UTC # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 plugins:
   - jekyll-feed
   - jekyll-gist
-  - jekyll-paginate
   - jekyll-sitemap
   - jekyll-redirect-from
   - jemoji
@@ -317,7 +316,6 @@ plugins:
 whitelist:
   - jekyll-feed
   - jekyll-gist
-  - jekyll-paginate
   - jekyll-sitemap
   - jekyll-redirect-from
   - jemoji

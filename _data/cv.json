@@ -1,10 +1,10 @@
 {
   "basics": {
-    "name": "Deng Pan",
+    "name": "DENG PAN",
     "email": "dpan@nd.edu",
     "phone": "+1 (313) 985 6017",
-    "website": "https://pd90506.github.io",
-    "summary": "Postdoctoral Associate at University of Notre Dame. Researcher in Responsible AI, focusing on explainability, fairness, robustness, and security.",
+    "website": "dpan.me",
+    "summary": "Postdoctoral Researcher at the University of Notre Dame specializing in Responsible AI. My research integrates interpretability, safety, fairness and robustness in both traditional machine learning and modern large language models, aiming to build transparent and accountable AI systems that advance responsible and trustworthy AI.",
     "location": {
       "address": "",
       "postalCode": "",
@@ -27,21 +27,21 @@
   },
   "work": [
     {
-      "company": "University of Notre Dame",
-      "position": "Postdoctoral Associate",
+      "company": "Lucy Family Institute for Data & Society, University of Notre Dame",
+      "position": "Postdoctoral Research Associate",
       "website": "",
       "startDate": "2024",
       "endDate": "Present",
-      "summary": "Collaborating on projects aimed at advancing medical equality in low- and middle-income countries through the application of AI tools, including Large Language Models (LLMs). Enhancing the fairness and transparency of contemporary AI systems by investigating the interpretability and explainability of generative AI models, with a focus on Large Language Models.",
+      "summary": "Efficient Explainable AI. [UR1, UR3, RP1]. Fairness in LLM (IBM Technology Ethics Lab) [UR2]. Agentic AI assisted medical tools (Hospital Infantil de México Federico Gómez) [RP2].",
       "highlights": []
     },
     {
-      "company": "AntGroup Inc.",
-      "position": "Applied Scientist",
+      "company": "University of Notre Dame",
+      "position": "Research Mentor",
       "website": "",
-      "startDate": "2022",
-      "endDate": "2023",
-      "summary": "Participated in the development of the Ant Model Risk Evaluation system. Designed and developed advanced solutions to enhance security within the Alipay ecosystem, including creating anti-cheating algorithms for online transactions, building a robust risk transaction detection system, and developing algorithms to detect and mitigate malicious accounts.",
+      "startDate": "2024",
+      "endDate": "2025",
+      "summary": "",
       "highlights": []
     },
     {
@@ -50,16 +50,16 @@
       "website": "",
       "startDate": "2016",
       "endDate": "2022",
-      "summary": "Assessed assignments and exams, provided guidance to students, and conducted research in areas encompassing recommender systems, explainable AI, Natural Language Processing, and related domains.",
+      "summary": "CSC3020 - Java Programming, CSC3110 - Algorithm Design and Analysis, CSC5825 - Introduction to Machine Learning and Applications, CSC6580 - Design and Analysis of Algorithms, CSC7825 - Machine Learning.",
       "highlights": []
     },
     {
       "company": "AntGroup Inc.",
-      "position": "Intern",
+      "position": "Applied Scientist",
       "website": "",
-      "startDate": "2021",
-      "endDate": "2021",
-      "summary": "Designed interpretable anti-cheat algorithms for transaction sequences.",
+      "startDate": "2022",
+      "endDate": "2023",
+      "summary": "Contributed to the development of the Ant Model Risk Evaluation system for assessing robustness, fairness, and explainability of machine learning models. Contributed to the design and development of large-scale security solutions for the Alipay ecosystem, including anti-cheating algorithms for online transactions, a robust risk detection system with interpretable risk indicators, and algorithms for detecting and mitigating malicious accounts across hundreds of millions of users and transactions.",
       "highlights": []
     },
     {
@@ -68,7 +68,7 @@
       "website": "",
       "startDate": "2018",
       "endDate": "2018",
-      "summary": "Worked with a group on the client retention project.",
+      "summary": "Worked on client retention prediction using data-driven risk analysis models.",
       "highlights": []
     },
     {
@@ -85,15 +85,15 @@
     {
       "institution": "Wayne State University",
       "area": "Computer Science",
-      "studyType": "Ph.D. & Master",
+      "studyType": "Ph.D. & M.S.",
       "startDate": "2015",
       "endDate": "2022",
       "gpa": null,
       "courses": [],
-      "highlights": ["Dissertation: Interpretable Machine Learning and Applications"]
+      "highlights": ["Dissertation: Interpretable Machine Learning and Applications", "Advisor: Prof. Dongxiao Zhu"]
     },
     {
-      "institution": "Southern University of Science and Technology",
+      "institution": "Southern University of Science and Technology (SUSTech)",
       "area": "Financial Mathematics",
       "studyType": "B.S.",
       "startDate": "2011",
@@ -106,18 +106,22 @@
     {
       "name": "Programming",
       "level": "",
-      "keywords": ["Python", "TensorFlow", "PyTorch", "scikit-learn"]
+      "keywords": ["Python", "Java", "SQL"]
+    },
+    {
+      "name": "Frameworks",
+      "level": "",
+      "keywords": ["PyTorch", "scikit-learn", "Hugging Face", "OpenAI API", "AWS Bedrock", "Anthropic MCP"]
     },
     {
       "name": "Machine Learning",
       "level": "",
       "keywords": [
-        "Interpretable Machine Learning",
-        "Adversarial Robustness",
-        "Anomaly Detection",
-        "Graph Neural Networks",
-        "Large Language Models",
-        "Convolutional Neural Networks",
+        "Explainable AI",
+        "Fairness and Robustness",
+        "Large Language Models (LLMs)",
+        "Reinforcement Learning",
+        "Graph Neural Networks (GNNs)",
         "Recommender Systems"
       ]
     }
@@ -138,74 +142,88 @@
   "references": [],
   "publications": [
     {
-      "name": "Context Attribution with Multi-Armed Bandit Optimization",
-      "publisher": "Preprint",
-      "releaseDate": "2025-01-01",
-      "website": "",
-      "summary": "Novel approach to context attribution using multi-armed bandit optimization techniques."
-    },
-    {
       "name": "Fast Explanations via Policy Gradient-Optimized Explainer",
       "publisher": "IJCAI-25",
       "releaseDate": "2025-01-02",
       "website": "",
-      "summary": "Policy gradient-based approach for generating fast explanations of machine learning models."
+      "summary": "Pan, D., Moniz, N., Chawla, N. (2025) Fast Explanations via Policy Gradient-Optimized Explainer. To Appear In the Proceedings of 34th International Joint Conference on Artificial Intelligence (IJCAI-25)"
     },
     {
       "name": "Negative Flux Aggregation to Estimate Feature Attributions",
       "publisher": "IJCAI-23",
       "releaseDate": "2023-08-01",
       "website": "",
-      "summary": "Novel method using negative flux aggregation to estimate feature attributions in neural networks."
+      "summary": "Li, X., Pan, D., Li, C., Qiang, Y. and Zhu, D. (2023) Negative Flux Aggregation to Estimate Feature Attributions. In the Proceedings of 32nd International Joint Conference on Artificial Intelligence (IJCAI-23), Macao, China."
     },
     {
       "name": "Learning Compact Features via In-Training Representation Alignment",
       "publisher": "AAAI-23",
       "releaseDate": "2023-02-01",
       "website": "",
-      "summary": "Method for learning compact features through in-training representation alignment."
+      "summary": "Li, X., Li, X., Pan, D., Qiang, Y., Zhu, D. (2023) Learning Compact Features via In-Training Representation Alignment. In the Proceedings of Thirty-Seventh AAAI Conference on Artificial Intelligence (AAAI-23)."
     },
     {
       "name": "AttCAT: Explaining Transformers via Attentive Class Activation Tokens",
       "publisher": "NeurIPS-22",
       "releaseDate": "2022-12-01",
       "website": "",
-      "summary": "Method for explaining transformer models using attentive class activation tokens."
+      "summary": "Qiang, Y., Pan, D., Li, C., Li, X., Jang, R., and Zhu, D. (2022) AttCAT: Explaining Transformers via Attentive Class Activation Tokens. In the Proceedings of Thirty-sixth Conference on Neural Information Processing Systems (NeurIPS-22)."
     },
     {
       "name": "Explaining Deep Neural Network Models with Adversarial Gradient Integration",
       "publisher": "IJCAI-21",
       "releaseDate": "2021-08-01",
       "website": "",
-      "summary": "Method for explaining deep neural networks using adversarial gradient integration."
+      "summary": "Pan, D., Li, X. and Zhu, D. (2021) Explaining Deep Neural Network Models with Adversarial Gradient Integration. The proceedings of 30th International Joint Conference on Artificial Intelligence (IJCAI-21), Montreal, Canada."
     },
     {
       "name": "Improving adversarial robustness via probabilistically compact loss with logit constraints",
       "publisher": "AAAI-21",
       "releaseDate": "2021-02-02",
       "website": "",
-      "summary": "Method to improve adversarial robustness using probabilistically compact loss with logit constraints."
+      "summary": "Li, X.*, Li, X.*, Pan, D.* and Zhu, D. (2021) Improving adversarial robustness via probabilistically compact loss with logit constraints. The proceedings of Thirty-Five AAAI Conference on Artificial Intelligence (AAAI-21), virtual conference. (*Equal contribution)"
     },
     {
       "name": "Defending against adversarial attacks on medical imaging AI system, classification or detection?",
       "publisher": "ISBI-21",
       "releaseDate": "2021-04-01",
       "website": "",
-      "summary": "Investigation of defense strategies against adversarial attacks on medical imaging AI systems."
+      "summary": "Li, X., Pan, D. and Zhu, D. (2021) Defending against adversarial attacks on medical imaging AI system, classification or detection? The proceedings of IEEE International Symposium on Biomedical Imaging (ISBI-21), virtual conference."
     },
     {
       "name": "Explainable recommendation via interpretable feature mapping and evaluating explainability",
       "publisher": "IJCAI-20",
       "releaseDate": "2020-07-01",
       "website": "",
-      "summary": "Approach for explainable recommendation systems using interpretable feature mapping."
+      "summary": "Pan, D., Li, X., Li, X. and Zhu, D. (2020) Explainable recommendation via interpretable feature mapping and evaluating explainability. The proceedings of 29th International Joint Conference on Artificial Intelligence (IJCAI-20), Yokohama, Japan."
     },
     {
       "name": "On the learning behavior of logistic and softmax losses for deep neural networks",
       "publisher": "AAAI-20",
       "releaseDate": "2020-02-01",
       "website": "",
-      "summary": "Analysis of the learning behavior of logistic and softmax losses in deep neural networks."
+      "summary": "Li, X., Li, X., Pan, D. and Zhu, D. (2020) On the learning behavior of logistic and softmax losses for deep neural networks. Thirty-Fourth AAAI Conference on Artificial Intelligence (AAAI-20), New York, USA."
+    },
+    {
+      "name": "Context Attribution with Multi-Armed Bandit Optimization",
+      "publisher": "Under review at ICLR 2026",
+      "releaseDate": "2025-01-01",
+      "website": "https://arxiv.org/pdf/2506.19977",
+      "summary": "Pan, D., Murugesan, K., Moniz, N., Chawla, N. (2025). Context Attribution with Multi-Armed Bandit Optimization. Under review at the International Conference on Learning Representations (ICLR 2026), arXiv:2506.19977."
+    },
+    {
+      "name": "On the Unstable Impact and Bias Propagation of Chain-of-Thought Reasoning in Large Language Models",
+      "publisher": "Under review at Nature Machine Intelligence",
+      "releaseDate": "2025-01-03",
+      "website": "",
+      "summary": "Pan, D., Germino, J., Ma, Y., Elizabeth, D., Chawla, N. (2025). On the Unstable Impact and Bias Propagation of Chain-of-Thought Reasoning in Large Language Models. Under review at Nature Machine Intelligence."
+    },
+    {
+      "name": "Automatic Moderator Discovery via SHAP Interaction Values",
+      "publisher": "Under review at ICLR 2026",
+      "releaseDate": "2025-01-04",
+      "website": "",
+      "summary": "Pan, D., Peng, J., Chawla, N. (2025). Automatic Moderator Discovery via SHAP Interaction Values. Under review at the International Conference on Learning Representations (ICLR 2026)."
     }
   ],
   "presentations": [],

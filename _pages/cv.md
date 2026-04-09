@@ -14,7 +14,7 @@ Explainable Artificial Intelligence (XAI), Trustworthy AI, Large Language Models
 
 ## Academic Appointments
 * **Postdoctoral Research Associate**, Lucy Family Institute for Data & Society, University of Notre Dame, South Bend, IN (2024-Present)
-  * Efficient Explainable AI. [[UR1](#UR1), [UR3](#UR3), [RP1](#RP1)]
+  * Efficient Explainable AI. [[C10](#C10), [UR3](#UR3), [RP1](#RP1)]
   * Fairness in LLM (IBM Technology Ethics Lab) [[UR2](#UR2)].
   * Agentic AI assisted medical tools (Hospital Infantil de México Federico Gómez) [[RP2](#RP2)].
 
@@ -44,6 +44,7 @@ Explainable Artificial Intelligence (XAI), Trustworthy AI, Large Language Models
 
 ### Peer-Reviewed Publications
 * [<a id="C1"></a>C1] **Pan, D.**, Moniz, N., Chawla, N. (2025) Fast Explanations via Policy Gradient-Optimized Explainer. *To Appear In the Proceedings of 34th International Joint Conference on Artificial Intelligence (IJCAI-25)*
+* [<a id="C10"></a>C10] **Pan, D.**, Murugesan, K., Moniz, N., Chawla, N. (2025). Context Attribution with Multi-Armed Bandit Optimization. *Findings of the Annual Meeting of the Association for Computational Linguistics (ACL 2026), [arXiv:2506.19977](https://arxiv.org/abs/2506.19977)*.
 * [<a id="C2"></a>C2] Li, X., **Pan, D.**, Li, C., Qiang, Y. and Zhu, D. (2023) Negative Flux Aggregation to Estimate Feature Attributions. *In the Proceedings of 32nd International Joint Conference on Artificial Intelligence (IJCAI-23), Macao, China.*
 * [<a id="C3"></a>C3] Li, X., Li, X., **Pan, D.**, Qiang, Y., Zhu, D. (2023) Learning Compact Features via In-Training Representation Alignment. *In the Proceedings of Thirty-Seventh AAAI Conference on Artificial Intelligence (AAAI-23).*
 * [<a id="C4"></a>C4] Qiang, Y., **Pan, D.**, Li, C., Li, X., Jang, R., and Zhu, D. (2022) AttCAT: Explaining Transformers via Attentive Class Activation Tokens. *In the Proceedings of Thirty-sixth Conference on Neural Information Processing Systems (NeurIPS-22).*
@@ -54,7 +55,6 @@ Explainable Artificial Intelligence (XAI), Trustworthy AI, Large Language Models
 * [<a id="C9"></a>C9] Li, X., Li, X., **Pan, D.** and Zhu, D. (2020) On the learning behavior of logistic and softmax losses for deep neural networks. *Thirty-Fourth AAAI Conference on Artificial Intelligence (AAAI-20), New York, USA.*
 
 ### Preprints and Under Review
-* [<a id="UR1"></a>UR1] **Pan, D.**, Murugesan, K., Moniz, N., Chawla, N. (2025). Context Attribution with Multi-Armed Bandit Optimization. *Under review at the International Conference on Learning Representations (ICLR 2026), arXiv:2506.19977*.
 * [<a id="UR2"></a>UR2] **Pan, D.**, Germino, J., Ma, Y., Elizabeth, D., Chawla, N. (2025). On the Unstable Impact and Bias Propagation of Chain-of-Thought Reasoning in Large Language Models. *Under review at Nature Machine Intelligence*.
 * [<a id="UR3"></a>UR3] **Pan, D.**, Peng, J., Chawla, N. (2025). Automatic Moderator Discovery via SHAP Interaction Values. *Under review at the International Conference on Learning Representations (ICLR 2026)*.
 

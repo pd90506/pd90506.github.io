@@ -40,5 +40,5 @@ Additionally, I collaborate with the IBM Technology Ethics Lab on responsible AI
 Recent Updates
 ======
 - **IJCAI-25 Paper Accepted**: Our paper "Fast Explanations via Policy Gradient-Optimized Explainer" has been accepted to the 34th International Joint Conference on Artificial Intelligence (IJCAI-25)!
-- **New Preprint**: Our paper "Context Attribution with Multi-Armed Bandit Optimization" is available on arXiv:2506.19977 and is under review at ICLR 2026.
+- **ACL 2026 Paper Accepted**: Our paper "Context Attribution with Multi-Armed Bandit Optimization" has been accepted to the Findings of the Annual Meeting of the Association for Computational Linguistics (ACL 2026), [arXiv:2506.19977](https://arxiv.org/abs/2506.19977).
 - **Teaching Excellence**: Received the Striving for Excellence in College and University Teaching Certificate from the University of Notre Dame in 2025.

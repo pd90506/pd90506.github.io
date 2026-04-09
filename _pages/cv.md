@@ -14,7 +14,7 @@ Explainable Artificial Intelligence (XAI), Trustworthy AI, Large Language Models
 
 ## Academic Appointments
 * **Postdoctoral Research Associate**, Lucy Family Institute for Data & Society, University of Notre Dame, South Bend, IN (2024-Present)
-  * Efficient Explainable AI. [[C10](#C10), [UR3](#UR3), [RP1](#RP1)]
+  * Efficient Explainable AI. [[C1](#C1), [UR3](#UR3), [RP1](#RP1)]
   * Fairness in LLM (IBM Technology Ethics Lab) [[UR2](#UR2)].
   * Agentic AI assisted medical tools (Hospital Infantil de México Federico Gómez) [[RP2](#RP2)].
 
@@ -43,16 +43,16 @@ Explainable Artificial Intelligence (XAI), Trustworthy AI, Large Language Models
 ## Publications
 
 ### Peer-Reviewed Publications
-* [<a id="C1"></a>C1] **Pan, D.**, Moniz, N., Chawla, N. (2025) Fast Explanations via Policy Gradient-Optimized Explainer. *To Appear In the Proceedings of 34th International Joint Conference on Artificial Intelligence (IJCAI-25)*
-* [<a id="C10"></a>C10] **Pan, D.**, Murugesan, K., Moniz, N., Chawla, N. (2025). Context Attribution with Multi-Armed Bandit Optimization. *Findings of the Annual Meeting of the Association for Computational Linguistics (ACL 2026), [arXiv:2506.19977](https://arxiv.org/abs/2506.19977)*.
-* [<a id="C2"></a>C2] Li, X., **Pan, D.**, Li, C., Qiang, Y. and Zhu, D. (2023) Negative Flux Aggregation to Estimate Feature Attributions. *In the Proceedings of 32nd International Joint Conference on Artificial Intelligence (IJCAI-23), Macao, China.*
-* [<a id="C3"></a>C3] Li, X., Li, X., **Pan, D.**, Qiang, Y., Zhu, D. (2023) Learning Compact Features via In-Training Representation Alignment. *In the Proceedings of Thirty-Seventh AAAI Conference on Artificial Intelligence (AAAI-23).*
-* [<a id="C4"></a>C4] Qiang, Y., **Pan, D.**, Li, C., Li, X., Jang, R., and Zhu, D. (2022) AttCAT: Explaining Transformers via Attentive Class Activation Tokens. *In the Proceedings of Thirty-sixth Conference on Neural Information Processing Systems (NeurIPS-22).*
-* [<a id="C5"></a>C5] **Pan, D.**, Li, X. and Zhu, D. (2021) Explaining Deep Neural Network Models with Adversarial Gradient Integration. *The proceedings of 30th International Joint Conference on Artificial Intelligence (IJCAI-21), Montreal, Canada.*
-* [<a id="C6"></a>C6] Li, X.*, Li, X.*, **Pan, D.** and Zhu, D. (2021) Improving adversarial robustness via probabilistically compact loss with logit constraints. *The proceedings of Thirty-Five AAAI Conference on Artificial Intelligence (AAAI-21), virtual conference.* (*Equal contribution*)
-* [<a id="C7"></a>C7] Li, X., **Pan, D.** and Zhu, D. (2021) Defending against adversarial attacks on medical imaging AI system, classification or detection? *The proceedings of IEEE International Symposium on Biomedical Imaging (ISBI-21), virtual conference.*
-* [<a id="C8"></a>C8] **Pan, D.**, Li, X., Li, X. and Zhu, D. (2020) Explainable recommendation via interpretable feature mapping and evaluating explainability. *The proceedings of 29th International Joint Conference on Artificial Intelligence (IJCAI-20), Yokohama, Japan.*
-* [<a id="C9"></a>C9] Li, X., Li, X., **Pan, D.** and Zhu, D. (2020) On the learning behavior of logistic and softmax losses for deep neural networks. *Thirty-Fourth AAAI Conference on Artificial Intelligence (AAAI-20), New York, USA.*
+* [<a id="C1"></a>C1] **Pan, D.**, Murugesan, K., Moniz, N., Chawla, N. (2025). Context Attribution with Multi-Armed Bandit Optimization. *Findings of the Annual Meeting of the Association for Computational Linguistics (ACL 2026), [arXiv:2506.19977](https://arxiv.org/abs/2506.19977)*.
+* [<a id="C2"></a>C2] **Pan, D.**, Moniz, N., Chawla, N. (2025) Fast Explanations via Policy Gradient-Optimized Explainer. *To Appear In the Proceedings of 34th International Joint Conference on Artificial Intelligence (IJCAI-25)*
+* [<a id="C3"></a>C3] Li, X., **Pan, D.**, Li, C., Qiang, Y. and Zhu, D. (2023) Negative Flux Aggregation to Estimate Feature Attributions. *In the Proceedings of 32nd International Joint Conference on Artificial Intelligence (IJCAI-23), Macao, China.*
+* [<a id="C4"></a>C4] Li, X., Li, X., **Pan, D.**, Qiang, Y., Zhu, D. (2023) Learning Compact Features via In-Training Representation Alignment. *In the Proceedings of Thirty-Seventh AAAI Conference on Artificial Intelligence (AAAI-23).*
+* [<a id="C5"></a>C5] Qiang, Y., **Pan, D.**, Li, C., Li, X., Jang, R., and Zhu, D. (2022) AttCAT: Explaining Transformers via Attentive Class Activation Tokens. *In the Proceedings of Thirty-sixth Conference on Neural Information Processing Systems (NeurIPS-22).*
+* [<a id="C6"></a>C6] **Pan, D.**, Li, X. and Zhu, D. (2021) Explaining Deep Neural Network Models with Adversarial Gradient Integration. *The proceedings of 30th International Joint Conference on Artificial Intelligence (IJCAI-21), Montreal, Canada.*
+* [<a id="C7"></a>C7] Li, X.*, Li, X.*, **Pan, D.** and Zhu, D. (2021) Improving adversarial robustness via probabilistically compact loss with logit constraints. *The proceedings of Thirty-Five AAAI Conference on Artificial Intelligence (AAAI-21), virtual conference.* (*Equal contribution*)
+* [<a id="C8"></a>C8] Li, X., **Pan, D.** and Zhu, D. (2021) Defending against adversarial attacks on medical imaging AI system, classification or detection? *The proceedings of IEEE International Symposium on Biomedical Imaging (ISBI-21), virtual conference.*
+* [<a id="C9"></a>C9] **Pan, D.**, Li, X., Li, X. and Zhu, D. (2020) Explainable recommendation via interpretable feature mapping and evaluating explainability. *The proceedings of 29th International Joint Conference on Artificial Intelligence (IJCAI-20), Yokohama, Japan.*
+* [<a id="C10"></a>C10] Li, X., Li, X., **Pan, D.** and Zhu, D. (2020) On the learning behavior of logistic and softmax losses for deep neural networks. *Thirty-Fourth AAAI Conference on Artificial Intelligence (AAAI-20), New York, USA.*
 
 ### Preprints and Under Review
 * [<a id="UR2"></a>UR2] **Pan, D.**, Germino, J., Ma, Y., Elizabeth, D., Chawla, N. (2025). On the Unstable Impact and Bias Propagation of Chain-of-Thought Reasoning in Large Language Models. *Under review at Nature Machine Intelligence*.
